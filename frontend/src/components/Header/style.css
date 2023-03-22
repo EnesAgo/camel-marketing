@@ -114,6 +114,9 @@
         padding: 0;
     }
 
+    .header ul{
+        padding: 0 10px;
+    }
     .header ul .firstLi h3{
         margin-left: 15px;
     }
