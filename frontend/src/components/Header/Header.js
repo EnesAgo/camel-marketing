@@ -42,11 +42,6 @@ function Header() {
                         </li>
                         <li>
                             {/* <a className="link" href="#">Instagram Posts</a> */}
-                            <Link className='link' to="/products" >Products</Link>
-
-                        </li>
-                        <li>
-                            {/* <a className="link" href="#">Instagram Posts</a> */}
                             <Link className='link' to="/services" >Services</Link>
 
                         </li>
