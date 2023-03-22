@@ -6,6 +6,7 @@ function Home() {
       return (
           <div className='home'>
               home
+              home
           </div>
       )
   }
